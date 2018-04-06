@@ -11,7 +11,7 @@ The data source belongs to Johnson & Johnson. I can't share here. I can only sha
 
 Speperating by resolution code, Insights about current categories and SLA are generated.
 
-![](./tableau/Reopen Incidents.png)
+![](./tableau/ReopenIncidents.png)
 
 ##### Number of Tickets  by Resolution Code
 
@@ -23,7 +23,7 @@ From this graph, we want to monitor quarterly tickets changing.
 
 Different team's performance is monitored by this visual.
 
-![](./tableau/MTR Performance.png)
+![](./tableau/MTRPerformance.png)
 
 
 ##### Mean Time Resolution
@@ -36,7 +36,7 @@ This is also related to SLA analysis. It monitors current SLA performance.
 
 Find the most frequent reasons about incidents.
 
-![](./tableau/Word Cloud.png)
+![](./tableau/WordCloud.png)
 
 ### Dashboard
 
