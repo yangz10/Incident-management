@@ -9,7 +9,7 @@ The data source belongs to Johnson & Johnson. I can't share here. I can only sha
 
 ##### Reopen Incidents by Resolutoin Code
 
-Speperating by resolution code, Insights about current categories and SLA are generated.
+Separating by resolution code, Insights about current categories and SLA are generated.
 
 ![](./tableau/ReopenIncidents.png)
 
@@ -34,7 +34,7 @@ This is also related to SLA analysis. It monitors current SLA performance.
 
 ##### Product Word Clound
 
-Find the most frequent reasons about incidents.
+Find the most frequent reasons for incidents.
 
 ![](./tableau/WordCloud.png)
 
@@ -42,7 +42,7 @@ Find the most frequent reasons about incidents.
 
 Final Dashboard
 
-Find the most frequent reasons about incidents.
+Find the most frequent reasons for incidents.
 
 ![](./tableau/Dashboard.png)
 
